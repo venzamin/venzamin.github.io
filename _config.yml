@@ -1,36 +1,41 @@
+# Site settings
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
-# Jekyll configuration
-markdown: kramdown
-# kramdown : markdown의 개조판.
-# markdown에서 불편한 사항을 개선한 형태.
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
 
-highlighter: rouge
-# text highlighter로 rouge이용
-# 2016.02월 이후로 syntax highlighter는 rouge만 지원.
-# Pygments 사용불가.
+# Author
+author:
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
-paginate: 10
-# 작성한 모든 post를 하나의 페이지에 열거할 수 없으니
-# pagination이 필요하고 몇개의 post를 하나의 page에서
-# 보여줄 건지를 설정.
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
 
-language: 'en-uk'
-# 언어 설정
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
 
-# Social info
-navigation: True
-# Navigation bar link를 보여줄건지 여부
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
 
-subscribers: True
-# subscriber 기능을 사용할건지의 여부
-# 저는 약간의 수정을 통해 subscriber 기능대신
-# lunr.js를 이용한 검색 기능으로 대체 사용했습니다.
-# 검색기능으로 대체하기 위해서
-# `_includes/subscribe-form.html` 파일의 수정이 필요합니다.
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
 
-# Website info
-title: IT Blog
-# 자신의 blog title.
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
-theme: jekyll-theme-hacker
-timezone: Asia/Seoul
+# Disqus (Set to your disqus id)
+disqus:         jekyll-tale
