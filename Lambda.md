@@ -1,7 +1,12 @@
-# 요약
+# Lambda Expression(Statemet)
+
+
+
+## 요약
 프로그래밍 언어에서 사용되는 개념. 익명함수(Anonymous function)를 지칭하는 용어. 주로 고차함수의 인자(argument) 혹은 결과값으로 사용됨.
 
-# 람다식의 형태
+
+## 람다식의 형태
 * Expression lambda (람다식)
 
 ~~~csharp
@@ -28,7 +33,7 @@ void foo()
 }
 ```
 
-# 장점
+## 장점
 * Code의 간결성
 
 ```csharp
