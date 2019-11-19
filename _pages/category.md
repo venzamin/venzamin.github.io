@@ -5,6 +5,6 @@ author: "Venzamin J"
 permalink: /category/
 ---
 [C#]
-[Lambda](/_posts/Lambda.md)
+[Lambda](/post/csharp/lambda/)
 ## Contact
 rookie7319@gmail.com

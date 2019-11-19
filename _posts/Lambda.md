@@ -5,6 +5,7 @@ date: 2019-11-19
 title: "Lamda Expression"
 description: "람다식에 대하여 알아보자!"
 subject: blog
+permalink: /post/csharp/lambda/
 categories: [C#]
 tags: [C#, Lambda, Expression]
 ---
