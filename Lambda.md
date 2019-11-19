@@ -3,6 +3,7 @@
 
 # 람다식의 형태
 * Expression lambda (람다식)
+
 ~~~csharp
 void foo()
 {
@@ -16,6 +17,7 @@ void func(object param)
 ~~~
 
 * Statement lambda (람다문)
+
 ```csharp
 void foo()
 {
@@ -28,6 +30,7 @@ void foo()
 
 # 장점
 * Code의 간결성
+
 ```csharp
 // 기본 
 int f()
@@ -66,5 +69,6 @@ void sum10()
         return result;
     });
 }
-```
 // 출력 : 10
+```
+
