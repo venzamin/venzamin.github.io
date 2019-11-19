@@ -1,15 +1,24 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Ven.ZJ"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+게임이나 프로그래밍을 시작하는 분들께 아주 약간이나마 도움이 되는 부분이 있었으면 하는 마음에 지금까지 업계에서 일하면서 얻은 정보를 유니티 엔진 / C# / C++에 정리하려 합니다.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+내용에 오류나 혹은 변경사항이 있다면 아래 메일로 부탁드려요.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+즐거운 하루 되세요~.
 
-Thanks for reading!
+I'd like to see a little bit of help for those who start playing games or programming, so I'd like to sort out the information that I've been working in the industry so far into the Unity Engine / C# / C++.
+
+If there are any errors or changes in the contents, please send me the following e-mail.
+
+Have a nice day~
+
+**Ven.Z**
+
+
+## Contact
+rookie7319@gmail.com

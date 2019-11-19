@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Labbda Expression"
+author: "Ven.ZJ"
+permalink: /post/
+---
+
+
 # Lambda Expression(Statemet)
 
 
