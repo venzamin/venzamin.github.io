@@ -2,7 +2,7 @@
 title:          VEN.Z
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        ""
-url:            "https://venzamin.github.io"
+url:            "https://venzamin.github.io/csharp"
 
 # Google Analytics
 # google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ url:            "https://venzamin.github.io"
 # Author
 author:
   name:         Venzamin
-  url:          https://venzamin.github.io
+  url:          https://venzamin.github.io/csharp
   email:        rookie7319@gmail.com
 
 # Build settings
