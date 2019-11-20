@@ -21,4 +21,4 @@ Have a nice day~
 
 
 ## Contact
-[Venzamin's E-mail](rookie7319@gmail.com)
+[Venzamin's E-mail](mailto:rookie7319@gmail.com)
